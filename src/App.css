@@ -31,3 +31,31 @@
     transform: rotate(360deg);
   }
 }
+.puce{max-width: 40px;    display: block;
+  padding-left: 20px;}
+.creditCardDynamic{max-width: 445px;background-color: blue;border-radius: 14px;    min-height: 250px;}
+h1{    color: white;
+  text-align: right;
+  padding-top: 10px;
+  padding-right: 18px;}
+.logo{max-width: 150px; display: block;float: right;} 
+.creditCardDynamic input{background-color: transparent;font-size: 24px;
+  color: white;
+  border: none;} 
+  ::placeholder {
+    color:white;
+    opacity: 1;
+
+  }
+.cardDate{text-align: right}  
+.creditCardDynamic p{color: white;
+   text-align: left;
+  padding-left: 73px;}
+  .container{     display: flex;
+    justify-content: center;
+    align-items: center;   }
+ .cardForm div{display: block} 
+ .cardForm{    display: flex;
+  justify-content: flex-end;
+  flex-direction: column;    margin-right: 30px;
+  align-items: flex-start;}  
